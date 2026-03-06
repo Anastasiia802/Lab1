@@ -1,4 +1,4 @@
-package creational;
+package creational.Prototype;
 
 public interface Prototype {
     Prototype clonePrototype();

@@ -1,4 +1,4 @@
-package creational;
+package creational.Singleton;
 
 public class Singleton {
     private static Singleton instance;

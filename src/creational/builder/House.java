@@ -1,4 +1,4 @@
-package creational;
+package creational.builder;
 
 public class House {
     private int walls;

@@ -1,4 +1,4 @@
-package creational;
+package creational.Factory_Method;
 
 interface Product {}
 class ConcreteProductA implements Product {}
